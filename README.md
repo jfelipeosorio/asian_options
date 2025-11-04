@@ -6,7 +6,7 @@ We explore two approaches to pricing an Asian option based on the arithmetic ave
 
 Here is a sample of GBM paths used for the Monte Carlo simulation:
 
-![hi](https://github.com/jfelipeosorio/asian_options/blob/main/output.png) "Logo Title Text 1")
+![](https://github.com/jfelipeosorio/asian_options/blob/main/output.png))
 
 
 To run the notebook just install the required packages `numpy,matplotlib,pandas,seaborn` in a Python environment.
